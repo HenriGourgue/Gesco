@@ -1,2 +1,2 @@
 # Gesco
-Ges repository
+Gesco repository
